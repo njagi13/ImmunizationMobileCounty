@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="GPS_Location.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:GPS_Location"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel>
+            <TextBlock Text="County locator" FontSize="48"/>
+            <Button x:ConnectionId='1' Content="Get GPS location"                     />
+            <TextBlock Name="geolocation" Text="Your location." FontSize="28"/>
+            <TextBlock x:Name="region"  FontSize="28"/>
+            <TextBlock x:Name="country"  FontSize="28"/>
+            <TextBlock x:Name="statustxt"  FontSize="28"/>
+            <Button x:ConnectionId='2' Name="btnSend" Content="Send"                       Visibility="Collapsed"/>
+           
+
+        </StackPanel>
+    </Grid>
+</Page>
+

@@ -1,0 +1,68 @@
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\bin\Debug\App.xbf
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\bin\Debug\MainPage.xbf
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\bin\Debug\GPS Location.xr.xml
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\bin\Debug\GPS Location.exe
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\bin\Debug\GPS Location.pdb
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\bin\Debug\resources.pri
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\bin\Debug\AppxManifest.xml
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\bin\Debug\GPS Location.build.appxrecipe
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\App.g.i.cs
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\App.g.cs
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\MainPage.g.i.cs
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\MainPage.g.cs
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\XamlTypeInfo.g.cs
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\App.xaml
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\MainPage.xaml
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\App.xbf
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\MainPage.xbf
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\XamlSaveStateFile.xml
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\GPS Location.exe
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\GPS Location.pdb
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\priconfig.xml
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\priconfig.xml.intermediate
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\layout.resfiles
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\layout.resfiles.intermediate
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\resources.resfiles
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\resources.resfiles.intermediate
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\pri.resfiles
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\pri.resfiles.intermediate
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\qualifiers.txt
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\qualifiers.txt.intermediate
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\vivek\documents\visual studio 2013\Projects\GPS Location\GPS Location\obj\Debug\ProjectArchitectures.txt
+D:\MyProjects\GPS Location\GPS Location\bin\Debug\App.xbf
+D:\MyProjects\GPS Location\GPS Location\bin\Debug\MainPage.xbf
+D:\MyProjects\GPS Location\GPS Location\bin\Debug\GPS Location.xr.xml
+D:\MyProjects\GPS Location\GPS Location\bin\Debug\GPS Location.exe
+D:\MyProjects\GPS Location\GPS Location\bin\Debug\GPS Location.pdb
+D:\MyProjects\GPS Location\GPS Location\bin\Debug\resources.pri
+D:\MyProjects\GPS Location\GPS Location\bin\Debug\AppxManifest.xml
+D:\MyProjects\GPS Location\GPS Location\bin\Debug\GPS Location.build.appxrecipe
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\App.g.i.cs
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\App.g.cs
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\MainPage.g.i.cs
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\MainPage.g.cs
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\XamlTypeInfo.g.cs
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\App.xaml
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\MainPage.xaml
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\App.xbf
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\MainPage.xbf
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\XamlSaveStateFile.xml
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\GPS Location.exe
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\GPS Location.pdb
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\priconfig.xml
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\priconfig.xml.intermediate
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\layout.resfiles
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\layout.resfiles.intermediate
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\resources.resfiles
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\resources.resfiles.intermediate
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\pri.resfiles
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\pri.resfiles.intermediate
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\qualifiers.txt
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\qualifiers.txt.intermediate
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\ProjectArchitectures.txt
+D:\MyProjects\GPS Location\GPS Location\bin\Debug\Newtonsoft.Json.dll
+D:\MyProjects\GPS Location\GPS Location\bin\Debug\Newtonsoft.Json.xml
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\GPS Location.csprojResolveAssemblyReference.cache
+D:\MyProjects\GPS Location\GPS Location\obj\Debug\GPS Location.csproj.GenerateResource.Cache
